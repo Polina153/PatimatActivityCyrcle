@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PatimatActivityCyrcle</string>
+    <string name="life_cyrcle_activity">Life cyrcle activity</string>
+    <string name="life_cycle_activity">Life cycle activity</string>
+</resources>
